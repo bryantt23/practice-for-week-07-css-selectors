@@ -190,3 +190,16 @@ pre {
   margin: auto;
   width: fit-content;
 }
+
+pre a {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}

@@ -185,3 +185,8 @@ h3,
   right: 1%;
   font-size: small;
 }
+
+pre {
+  margin: auto;
+  width: fit-content;
+}
